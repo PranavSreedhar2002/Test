@@ -1,5 +1,6 @@
+
 class Tutorial2{
-	public static void main (String args[]){
-		System.out.print("Github is awesome!");
-	}	
+public static void main (String arg[]){
+	System.out.print("Github is awesome!!!!");
+}
 }
